@@ -1,0 +1,24 @@
+{
+  "name": "networkapi",
+  "version": "1.0.0",
+  "description": "API for a social network web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris70A/networkAPI.git"
+  },
+  "author": "Christian Plasencia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.5"
+  },
+  "bugs": {
+    "url": "https://github.com/Chris70A/networkAPI/issues"
+  },
+  "homepage": "https://github.com/Chris70A/networkAPI#readme"
+}
